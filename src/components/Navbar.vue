@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex justify-between items-center p-4 bg-white dark:bg-gray-800 text-black dark:text-white shadow-md transition-colors duration-300">
+  <nav class="flex sticky top-0 z-50 justify-between items-center p-4 bg-white dark:bg-gray-800 text-black dark:text-white shadow-md transition-colors duration-300">
     <!-- Logo / Brand -->
     <div class="text-xl font-bold">My Portfolio</div>
 
